@@ -1,0 +1,7 @@
+Topics to work on using Python
+
+1.Dealing with files
+2.Lamda and Higher level order functions
+3.Decorators
+4.Name Mangling
+5.Doc string

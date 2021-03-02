@@ -1,0 +1,12 @@
+Python for loop_comprehension list:
+
+data_list =  [1,2,3,4,5]
+
+for i in range(100)
+	print(i*100.0);
+
+
+def prosession_loop_comprehension(list)
+d1 = []
+
+data_list = (i*100.0 for i in range(100))
